@@ -100,8 +100,7 @@ bot.on('text', (ctx) => {
 		ctx.reply("Para las partículas de " + ctx.session.particle +
 				  ", la media para " + ctx.session.period +
 				  " en " + ctx.session.city + 
-				  " es de: " + response + 
-				  " ppm");
+				  " es de: " + response );
 	}
   }
 });
