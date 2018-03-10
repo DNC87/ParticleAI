@@ -1,5 +1,5 @@
 # ParticleAI
-Sistema de inteligencia artificial centralizado capaz de analizar, monitorizar y predecir el estado de las partículas en suspensión pasadas, presentes y futuras.
+Sistema de inteligencia artificial centralizado capaz de analizar, monitorizar y predecir el estado de las partículas en suspensión, polen y contaminación pasadas, presentes y futuras, con el objetivo de mejorar la calidad de vida de las personas. Más información en: http://users.dsic.upv.es/~flip/particleAI/ .
 
 ![alt text](img/portada.png "Logo Title Text 1")
 
