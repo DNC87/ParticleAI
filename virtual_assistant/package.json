@@ -1,0 +1,26 @@
+{
+  "name": "ParticleAI_bot",
+  "version": "0.0.1",
+  "description": "Particle AI bot",
+  "main": "index_v2.js",
+  "author": {
+    "name": "David N.C.",
+    "email": "daniecor@dsic.upv.es"
+  },
+  "scripts": {
+    "start": "index_v2.js"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "csv": "^0.3.7",
+    "csv-parse": "2.0.4",
+    "csvtojson": "^1.1.9",
+    "geolib": "^2.0.22",
+    "get-json": "0.0.3",
+    "instagram-wrapi": "^0.1.0",
+    "node-emoji": "^1.4.2",
+    "should": "^13.2.1",
+    "telegraf": "^3.5.2",
+    "telegraf-command-parts": "^1.0.3"
+  }
+}
